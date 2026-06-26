@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Live_Demo-Click_Here-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
-
+> **Live URL:** [https://vibe-shift-three.vercel.app](https://vibe-shift-three.vercel.app)
 A text style transformer powered by Google Gemini. Paste any text and watch it get rewritten in Gen Z slang, Shakespearean English, Corporate speak and more.
 
 ---
