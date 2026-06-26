@@ -8,7 +8,7 @@
 
 > **Live URL:** [https://vibe-shift-three.vercel.app](https://vibe-shift-three.vercel.app)
 
-VibeShift is a production-grade **LLM text transformation engine** built with Next.js and Google's Gemini API. It goes beyond simple API wrappers—demonstrating advanced prompt engineering, few-shot learning, automated quality scoring and persistent local analytics. 
+VibeShift is a production-grade **LLM text transformation engine** built with Next.js and Google's Gemini API. It goes beyond simple API wrappers demonstrating advanced prompt engineering, few-shot learning, automated quality scoring and persistent local analytics. 
 
 ## UI & Interface
 
