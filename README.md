@@ -14,28 +14,15 @@ This project is specifically designed as a portfolio piece for Master's applicat
 
 ---
 
-## Table of Contents
-
-- [UI and Interface](#ui-and-interface)
-- [Engineering Highlights](#engineering-highlights)
-- [Why This Project Matters](#why-this-project-matters)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Local Development Setup](#local-development-setup)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-
----
-
 ## UI and Interface
 
-<p align="center">
+<div align="center">
   <img src="images/genz-output.png" alt="Gen Z Output" width="49%" style="border-radius: 14px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.4);" />
   <img src="images/prompt-drawer.png" alt="Prompt Drawer" width="49%" style="border-radius: 14px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.4);" />
   <br />
   <img src="images/aunty-output.png" alt="Aunty WhatsApp" width="49%" style="border-radius: 14px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.4);" />
   <img src="images/analytics-dashboard.png" alt="Analytics Dashboard" width="49%" style="border-radius: 14px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.4);" />
-</p>
+</div>
 
 ---
 
@@ -93,6 +80,7 @@ VibeShift incorporates three distinct technical areas:
 2. **Backend Engineering:** Through the implementation of a persistent SQLite database and structured API routes.
 3. **Data Science and Analytics:** Through automated quality scoring, interactive visualizations, and CSV export functionality.
 
+For Master's applications and data science roles, this project demonstrates an ability to build end-to-end AI systems rather than just calling APIs.
 
 ---
 
