@@ -10,7 +10,6 @@
 
 VibeShift is a production-grade LLM text transformation engine built with Next.js and Google's Gemini API. It goes beyond simple API wrappers by demonstrating advanced prompt engineering, few-shot learning, automated quality scoring, and persistent local analytics.
 
-This project is specifically designed as a portfolio piece for Master's applications in Data Science and Artificial Intelligence (targeting SFU, Waterloo, UBC, and University of Hildesheim) as well as data science and ML engineering roles.
 
 ---
 
