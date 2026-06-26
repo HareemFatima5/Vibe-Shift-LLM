@@ -6,34 +6,31 @@
   </a>
 </p>
 
-A text style transformer powered by Google Gemini. Paste any text and watch it get rewritten in Gen Z slang, Shakespearean English, Corporate speak, and more.
+A text style transformer powered by Google Gemini. Paste any text and watch it get rewritten in Gen Z slang, Shakespearean English, Corporate speak and more.
 
 ---
 
-## Screenshots
+## Deployment
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="images/genz-output.png" width="100%" alt="Gen Z Output"/>
-      <sub>Gen Z Style</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="images/prompt-drawer.png" width="100%" alt="Prompt Drawer"/>
-      <sub>System Prompt Viewer</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="images/aunty-output.png" width="100%" alt="Aunty WhatsApp"/>
-      <sub>Aunty WhatsApp Style</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="images/analytics-dashboard.png" width="100%" alt="Analytics"/>
-      <sub>Analytics Dashboard</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="images/genz-output.png" width="80%" alt="Gen Z Output"/><br/>
+  <sub>Gen Z Style</sub>
+</p>
+
+<p align="center">
+  <img src="images/prompt-drawer.png" width="80%" alt="System Prompt Viewer"/><br/>
+  <sub>System Prompt Viewer</sub>
+</p>
+
+<p align="center">
+  <img src="images/aunty-output.png" width="80%" alt="Aunty WhatsApp Style"/><br/>
+  <sub>Aunty WhatsApp Style</sub>
+</p>
+
+<p align="center">
+  <img src="images/analytics-dashboard.png" width="80%" alt="Analytics Dashboard"/><br/>
+  <sub>Analytics Dashboard</sub>
+</p>
 
 ---
 
@@ -64,7 +61,7 @@ A text style transformer powered by Google Gemini. Paste any text and watch it g
 ## Setup
 
 ```bash
-git clone https://github.com/hhdjej/vibeshift.git
+git clone https://github.com/HareemFatima5/Vibe-Shift-LLM
 cd vibeshift
 npm install
 ```
