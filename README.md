@@ -6,6 +6,7 @@
   </a>
 </p>
 > **Live URL:** [https://vibe-shift-three.vercel.app](https://vibe-shift-three.vercel.app)
+
 A text style transformer powered by Google Gemini. Paste any text and watch it get rewritten in Gen Z slang, Shakespearean English, Corporate speak and more.
 
 ---
