@@ -13,8 +13,8 @@ VibeShift is a production-grade **LLM text transformation engine** built with Ne
 ## UI & Interface
 
 <p align="center">
-  <img src="genz-output.png" width="48%" style="border-radius: 12px; border: 1px solid #333;" />
-  <img src="prompt-drawer.png" width="48%" style="border-radius: 12px; border: 1px solid #333;" />
+  <img src="images/genz-output.png" width="48%" style="border-radius: 12px; border: 1px solid #333;" />
+  <img src="images/prompt-drawer.png" width="48%" style="border-radius: 12px; border: 1px solid #333;" />
   <br />
   <img src="images/aunty-output.png" width="48%" style="border-radius: 12px; border: 1px solid #333;" />
   <img src="images/analytics-dashboard.png" width="48%" style="border-radius: 12px; border: 1px solid #333;" />
